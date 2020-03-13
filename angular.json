@@ -121,8 +121,4 @@
       "prefix": "my",
       "styleext": "css"
     },
-    "@schematics/angular:directive": {
-      "prefix": "my"
-    }
-  }
-}
+    
